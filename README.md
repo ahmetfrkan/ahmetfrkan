@@ -20,13 +20,3 @@ I'm a **Back-end Developer** based in **Luxembourg** 🇱🇺. I’m currently f
 | **Database** | PostgreSQL |
 | **Tools** | Git, Maven, Postman, IntelliJ IDEA |
 
----
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetfrkan&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetfrkan&theme=tokyonight" alt="streak stats" />
-</p>
