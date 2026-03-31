@@ -22,9 +22,6 @@ I'm a **Back-end Developer** based in **Luxembourg** 🇱🇺. I’m currently f
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmetfrkan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetfrkan&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
