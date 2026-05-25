@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 I'm a **Back-end Developer** based in **Luxembourg** 🇱🇺. I’m currently focused on mastering the **Java / Spring Boot** ecosystem. I love building systems that handle complex data and I'm always looking for a better way to optimize a query.
 
-* 🚀 **Currently Learning:** Advanced Spring Security & Microservices.
+
 ---
 
 ### 🛠 Tech Stack & Tools
